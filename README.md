@@ -12,5 +12,5 @@ The "config 9750H with samsung RAM patches.plis" inject patches for machine with
 ## sleep
 please change "hibernatemode" and "proximitywake" value to zero , you can do this via hackintool.
 
-## wlan
+## wifi and bluetooth
 the x1 extreme gen2 and P1 gen2 has wlan whitelist , so you have to mod the bios if you want to change your wifi card ; P53 with older version of bios don't have wlan whitelist.
